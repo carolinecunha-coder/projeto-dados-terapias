@@ -6,7 +6,7 @@
 
 Este projeto aplica conceitos de **Ciência de Dados** e **Processamento de Linguagem Natural (PLN)** para realizar a extração, tratamento e análise estatística do conteúdo textual de e-books autorais voltados para práticas integrativas (*Mindfulness* e *Reiki*). 
 
-O objetivo principal é transformar dados não estruturados (arquivos PDF) in insights quantificáveis, validando de forma empírica e matemática se a distribuição dos termos reflete com precisão as propostas editoriais e conceituais de cada obra.
+O objetivo principal é transformar dados não estruturados (arquivos PDF) em insights quantificáveis, validando de forma empírica e matemática se a distribuição dos termos reflete com precisão as propostas editoriais e conceituais de cada obra.
 
 ---
 
@@ -58,8 +58,8 @@ O fluxo de processamento dos dados textuais seguiu as seguintes etapas:
 * **Insight Técnico:** A proximidade métrica entre *Atenção* e *Plena* valida estatisticamente que o conceito de "Atenção Plena" foi o fio condutor do livro, com foco secundário no gerenciamento de *Pensamentos*.
 
 🖼️ **Visualização de Dados (Mindfulness):**
-*(A imagem abaixo foi gerada pelo script e salva automaticamente na raiz do projeto)*
-![Nuvem de Palavras - Mindfulness](nuvem_mindfulness.png)
+*(A imagem abaixo foi gerada pelo script e salva na pasta meus_ebooks)*
+![Nuvem de Palavras - Mindfulness](meus_ebooks/nuvem_mindfulness.png)
 
 ### 🌅 2. E-book: Terapia Integrativa Reiki
 * **Métrica de Volume:** 17 páginas processadas.
@@ -70,8 +70,8 @@ O fluxo de processamento dos dados textuais seguiu as seguintes etapas:
 * **Insight Técnico:** O predomínio isolado do termo *Energia* comprova que o foco técnico do e-book está centralizado na manipulação energética e no alinhamento dos centros de força (*Chakras*), mantendo a fidelidade ao método tradicional Usui.
 
 🖼️ **Visualização de Dados (Reiki):**
-*(A imagem abaixo foi gerada pelo script e salva automaticamente na raiz do projeto)*
-![Nuvem de Palavras - Reiki](nuvem_reiki.png)
+*(A imagem abaixo foi gerada pelo script e salva na pasta meus_ebooks)*
+![Nuvem de Palavras - Reiki](meus_ebooks/nuvem_reiki.png)
 
 ---
 
