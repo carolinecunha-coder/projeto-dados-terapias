@@ -83,6 +83,5 @@ O fluxo de processamento dos dados textuais seguiu as seguintes etapas:
 Ter o Python 3.11+ instalado na máquina.
 
 ### 1. Clonar o repositório
-```bash
-git clone [https://github.com/carolinecunha-coder/projeto-dados-terapias.git](https://github.com/carolinecunha-coder/projeto-dados-terapias.git)
+git clone https://github.com/carolinecunha-coder/projeto-dados-terapias.git
 cd projeto-dados-terapias
