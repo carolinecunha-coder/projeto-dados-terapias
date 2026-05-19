@@ -6,7 +6,7 @@
 
 Este projeto aplica conceitos de **Ciência de Dados** e **Processamento de Linguagem Natural (PLN)** para realizar a extração, tratamento e análise estatística do conteúdo textual de e-books autorais voltados para práticas integrativas (*Mindfulness* e *Reiki*). 
 
-O objetivo principal é transformar dados não estruturados (arquivos PDF) em insights quantificáveis, validando de forma empírica e matemática se a distribuição dos termos reflete com precisão as propostas editoriais e conceituais de cada obra.
+O objetivo principal é transformar dados não estruturados (arquivos PDF) in insights quantificáveis, validando de forma empírica e matemática se a distribuição dos termos reflete com precisão as propostas editoriais e conceituais de cada obra.
 
 ---
 
@@ -77,11 +77,14 @@ O fluxo de processamento dos dados textuais seguiu as seguintes etapas:
 
 ## 🚀 Como Executar o Projeto
 
-*(Esta secção serve de guia técnico para que outras pessoas saibam como reproduzir o teu trabalho)*
+*(Esta seção serve de guia técnico para que outras pessoas saibam como reproduzir o seu trabalho)*
 
 ### Pré-requisitos
 Ter o Python 3.11+ instalado na máquina.
 
 ### 1. Clonar o repositório
-git clone https://github.com/carolinecunha-coder/projeto-dados-terapias.git
+Você pode clonar este repositório executando os comandos abaixo no seu terminal:
+
+```bash
+git clone [https://github.com/carolinecunha-coder/projeto-dados-terapias.git](https://github.com/carolinecunha-coder/projeto-dados-terapias.git)
 cd projeto-dados-terapias
